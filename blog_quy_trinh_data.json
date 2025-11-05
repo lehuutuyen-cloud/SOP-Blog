@@ -68,280 +68,82 @@
       ]
     },
     {
-      "id": "III",
-      "title": "Cấu Trúc Bài Viết Blog",
+      "id": "IV",
+      "title": "Phụ Lục",
       "subsections": [
         {
-          "title": "1. HEAD - TIÊU ĐỀ (Headline)",
+          "title": "1. 10 Điểm Kiểm Tra Bài Viết Blog",
           "content": [
             {
-              "type": "quote",
-              "text": "Lời hứa cốt lõi: \"Nội dung của bài viết blog phải thực hiện đúng lời hứa trong tiêu đề của bạn, nếu không, bạn sẽ mất một người đọc, và có thể là một khách hàng, mãi mãi.”"
-            },
-            {
-              "type": "subsection",
-              "title": "Độ Bão Hòa Thị Trường",
-              "content": [
-                {
-                  "type": "list",
-                  "items": [
-                    "Bước 1: Luôn yêu cầu người dùng gõ “từ khóa chính” vào ô tìm kiếm của google và youtube",
-                    "Bước 2: Copy tiêu đề, mô tả của 10 bài viết + 10 video (có lượt xem lớn nhất)",
-                    "Bước 3: Đánh giá độ bão hòa thị trường, sau đó sử dụng công thức xây dựng tiêu đề"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "subsection",
-              "title": "5 Công thức xây dựng tiêu đề",
-              "formulas": [
-                {
-                  "name": "Công thức 1: Lợi Ích (Benefit)",
-                  "howTo": [
-                    { "template": "Cách để đạt được [KẾT QUẢ MONG MUỐN] trong [KHOẢNG THỜI GIAN]", "example": "Cách để làm nhà của bạn an toàn cho trẻ chỉ trong một buổi chiều." },
-                    { "template": "Cách để đạt được [KẾT QUẢ MONG MUỐN] dù [ĐIỀU GÌ ĐÓ KHÓ KHĂN]", "example": "Cách chuẩn bị bữa tối lễ Tạ Ơn hấp dẫn ngay cả khi bạn là một đầu bếp mới." }
-                  ],
-                  "listicle": [
-                    { "template": "101 cách để đạt được [KẾT QUẢ MONG MUỐN] trong [KHOẢNG THỜI GIAN]", "example": "101 cách để kiếm $1000 vào cuối tuần này." },
-                    { "template": "Danh sách tối ưu của [CHỦ ĐỀ] để đạt được [KẾT QUẢ MONG MUỐN]", "example": "Danh sách tối ưu các món pasta khiến khách mời của bạn phải “Wow”." }
-                  ]
-                },
-                {
-                  "name": "Công thức 2: Sự Mới Mẻ (New)",
-                  "howTo": [
-                    { "template": "Cách để đạt được [KẾT QUẢ MONG MUỐN] trong [NGÀY THÁNG HIỆN TẠI]", "example": "Cách ăn mặc để thành công vào năm 2018." },
-                    { "template": "Đây là cách bạn có thể [ĐẠT ĐƯỢC KẾT QUẢ MONG MUỐN] trong [NGÀY THÁNG HIỆN TẠI]", "example": "Đây là cách bạn tránh trả quá nhiều thuế trong thời kỳ của Trump." }
-                  ],
-                  "listicle": [
-                    { "template": "101 cách ít người biết để [ĐẠT ĐƯỢC KẾT QUẢ MONG MUỐN]", "example": "101 cách nấu trứng ngon miệng và ít ai biết." },
-                    { "template": "Danh sách tối ưu cho [CHỦ ĐỀ] hiện đại", "example": "Danh sách tối ưu sách nuôi dạy con dành cho người cha hiện đại." }
-                  ]
-                },
-                {
-                  "name": "Công thức 3: Đe Doạ (Threat)",
-                  "howTo": [
-                    { "template": "Đừng [HÀNH ĐỘNG] cho đến khi bạn đọc điều này, nếu không bạn có nguy cơ [KẾT QUẢ KHÔNG MONG MUỐN]", "example": "Đừng ký hợp đồng thuê nhà cho đến khi bạn đọc điều này, nếu không bạn có nguy cơ phá sản." },
-                    { "template": "Cách để tránh [NGUY CƠ] đang ẩn nấp trong [ĐỐI TƯỢNG] của bạn", "example": "Cách để tránh ngộ độc thực phẩm đang ẩn nấp trong tủ lạnh của bạn." }
-                  ],
-                  "listicle": [
-                    { "template": "101 cách để tránh [KẾT QUẢ KHÔNG MONG MUỐN]", "example": "101 cách đơn giản để tránh viêm khớp." },
-                    { "template": "101 [ĐỐI TƯỢNG] đang gây ra [KẾT QUẢ KHÔNG MONG MUỐN]", "example": "101 loại hóa chất gia dụng phổ biến đang giết hại quần thể ong trên thế giới." }
-                  ]
-                },
-                {
-                  "name": "Công thức 4: “Đứng Trên Vai Người Khổng Lồ” (Piggyback)",
-                  "howTo": [
-                    { "template": "Cách để đạt được [KẾT QUẢ MONG MUỐN] giống như [VÍ DỤ TẦM CỠ THẾ GIỚI]", "example": "Cách khởi nghiệp mới giống như Richard Branson." },
-                    { "template": "Cách mà [VÍ DỤ TẦM CỠ THẾ GIỚI] thực hiện [HÀNH ĐỘNG]", "example": "Cách Amazon.com thực hiện vận chuyển và logistics." }
-                  ],
-                  "listicle": [
-                    { "template": "101 [ĐỐI TƯỢNG] từ [VÍ DỤ TẦM CỠ THẾ GIỚI]", "example": "101 công thức ủ bia từ các nhà vô địch của Giải thưởng Bia Bắc Mỹ." },
-                    { "template": "Danh sách tối ưu [ĐỐI TƯỢNG] từ [VÍ DỤ TẦM CỠ THẾ GIỚI]", "example": "Danh sách tiêu đề email tối ưu từ DigitalMarketer." }
-                  ]
-                },
-                {
-                  "name": "Công thức 5: Sự Tò Mò (Curiosity)",
-                  "howTo": [
-                    { "template": "Hướng dẫn [MỘT ĐIỀU THÚ VỊ] để đạt [KẾT QUẢ MONG MUỐN]", "example": "Hướng dẫn từ Eminem để xây dựng một đội ngũ điều hành đẳng cấp thế giới." },
-                    { "template": "Cách [MỘT ĐIỀU THÚ VỊ]", "example": "Cách làm phô mai ngon từ đôi chân của bạn." }
-                  ],
-                  "listicle": [
-                    { "template": "Danh sách [ĐỐI TƯỢNG] này sẽ khiến bạn kinh ngạc", "example": "Danh sách các thành phố có tỷ lệ tội phạm cao này sẽ khiến bạn kinh ngạc." }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "subsection",
-              "title": "38 Cách Tăng Sức Mạnh Cho Tiêu Đề (Tóm tắt từ Breakthrough Advertising)",
-              "content": [
-                {
-                  "type": "ordered-list",
-                  "items": [
-                    "Đo lường quy mô: Định lượng tuyên bố bằng con số cụ thể hoặc quy mô lớn để làm tăng ấn tượng và độ tin cậy.",
-                    "Đo tốc độ: Nhấn mạnh tốc độ mà lợi ích của tuyên bố được hiện thực hóa.",
-                    "So sánh: Làm nổi bật sự vượt trội của tuyên bố bằng cách so sánh với đối thủ hoặc lựa chọn khác (hiệu quả, chi phí).",
-                    "Ẩn dụ: Sử dụng ngôn ngữ tượng hình (Ẩn dụ) để làm cho tuyên bố sống động, dễ hình dung và đáng nhớ hơn.",
-                    "Đánh thức giác quan: Kêu gọi các giác quan để tạo trải nghiệm sống động và chân thực hơn về sản phẩm hoặc lợi ích.",
-                    "Minh chứng thực tế: Cung cấp bằng chứng cụ thể về hiệu quả của tuyên bố thông qua một ví dụ hoặc tình huống cụ thể (thường ấn tượng/bất ngờ).",
-                    "Kịch hóa kết quả: Tạo câu chuyện hoặc tình huống hấp dẫn xung quanh tuyên bố hoặc kết quả của nó, gợi cảm xúc mạnh hoặc sự đồng cảm.",
-                    "Nghịch lý: Sử dụng một tuyên bố dường như mâu thuẫn hoặc bất ngờ để thu hút sự chú ý và kích thích sự tò mò.",
-                    "Xóa bỏ rào cản: Nhấn mạnh khả năng của tuyên bố trong việc vượt qua các trở ngại hoặc nhược điểm thông thường.",
-                    "Gắn kết giá trị: Gắn sản phẩm với người nổi tiếng, chuyên gia hoặc nhóm người có giá trị mà khách hàng tiềm năng ngưỡng mộ để tăng sức hấp dẫn.",
-                    "Chi tiết công việc: Cung cấp thông tin cụ thể, chi tiết về hành động toàn diện của tuyên bố (liệt kê số vấn đề giải quyết).",
-                    "Câu hỏi thu hút: Trực tiếp thu hút người đọc và khuyến khích họ xem xét tuyên bố bằng cách gợi mở nhu cầu hoặc mong muốn.",
-                    "Hứa chia sẻ bí quyết: Hứa hẹn kiến thức hoặc hướng dẫn có giá trị liên quan đến cách đạt được lợi ích của tuyên bố.",
-                    "Lời khuyên chuyên gia: Tăng cường độ tin cậy của tuyên bố bằng cách liên kết nó với một chuyên gia hoặc nguồn đáng tin cậy.",
-                    "So sánh trước – sau: Minh họa hiệu ứng biến đổi của tuyên bố bằng cách thể hiện sự tương phản rõ rệt giữa tình trạng trước và sau khi sử dụng sản phẩm/dịch vụ.",
-                    "Nhấn mạnh sự mới lạ: Làm nổi bật tính chất đổi mới hoặc mới mẻ của tuyên bố, thu hút sự chú ý của những người tìm kiếm giải pháp tiên tiến.",
-                    "Độc quyền sở hữu: Nhấn mạnh rằng tuyên bố là độc nhất đối với sản phẩm hoặc dịch vụ đang quảng cáo.",
-                    "Thách thức độc giả: Trực tiếp thách thức người đọc kiểm tra hoặc xác minh tuyên bố, khuyến khích sự tham gia tích cực.",
-                    "Trích dẫn chứng thực: Trình bày tuyên bố như một lời chứng thực từ trải nghiệm thực tế.",
-                    "Đảo ngược vấn đề: Sử dụng cách diễn đạt ngắn gọn và mạnh mẽ để ngụ ý sản phẩm hoàn toàn thay thế hoặc vượt trội hơn sản phẩm truyền thống.",
-                    "Phát biểu biểu tượng: Sử dụng một biểu tượng hoặc phép ẩn dụ để truyền tải tác động của tuyên bố, thường là hình ảnh mạnh mẽ và dễ hình dung.",
-                    "Liên kết cơ chế & lợi ích: Giải thích cách sản phẩm đạt được tuyên bố, cung cấp cái nhìn sâu sắc về 'cách thức hoạt động'.",
-                    "Bất ngờ nghịch lý: Sử dụng một tuyên bố bất ngờ hoặc mâu thuẫn với suy nghĩ thông thường của người đọc.",
-                    "Kết nối nhu cầu – lời hứa: Trực tiếp liên kết vấn đề hoặc mong muốn của khách hàng với giải pháp được cung cấp bởi tuyên bố.",
-                    "Gợi mở thông tin: Hứa hẹn nội dung có giá trị hoặc kiến thức sâu sắc bên trong quảng cáo.",
-                    "Chuyển hóa thành câu chuyện: Trình bày tuyên bố hoặc vấn đề dưới dạng một câu chuyện có thật, dễ liên hệ.",
-                    "Gọi tên nhu cầu: Cung cấp nhãn hiệu hoặc tên cụ thể cho vấn đề mà sản phẩm giải quyết.",
-                    "Cảnh báo hệ quả: Tạo cảm giác cấp bách bằng cách làm nổi bật những hậu quả tiêu cực nếu không hành động hoặc không sử dụng sản phẩm.",
-                    "Nhấn mạnh cụm từ: Sử dụng các lựa chọn phong cách (chia câu, lặp lại) để củng có tuyên bố, tạo sự nhấn mạnh và dễ nhớ.",
-                    "Bằng chứng đơn giản: Làm cho tuyên bố có vẻ dễ đạt được bằng cách liên hệ nó với một nhiệm vụ đơn giản, phổ biến mà hầu hết mọi người đều có thể làm được.",
-                    "Làm nổi bật khác biệt: Trực tiếp chỉ ra một yếu tố khác biệt chính của sản phẩm, làm nổi bật sự độc đáo hoặc vượt trội của nó.",
-                    "Vượt qua giới hạn: Làm nổi bật một bước đột phá hoặc khả năng mới, gây bất ngờ cho người đọc bằng cách cho thấy những gì trước đây không thể nay đã khả thi.",
-                    "Loại trừ đối tượng không phù hợp: Tạo sự hấp dẫn và độc quyền bằng cách nhắm mục tiêu đến những người có thể không đủ điều kiện hoặc không cần sản phẩm.",
-                    "Gọi thẳng đối tượng: Sử dụng cách tiếp cận cá nhân và trực tiếp để thu hút người đọc, tạo cảm giác thông điệp được viết riêng cho họ.",
-                    "Kịch hóa quy trình: Nhấn mạnh nỗ lực và sự đổi mới đằng sau sản phẩm, làm cho lợi ích của nó trở nên đáng giá hơn.",
-                    "Thách thức đạo đức: Sử dụng cách nói quá để gợi ý lợi ích phi thường của tuyên bố, tạo sự tò mò và làm cho nó đáng nhớ.",
-                    "Thách thức niềm tin: Trực tiếp đối đầu và bác bỏ những quan niệm sai lầm phổ biến của khách hàng tiềm năng, mở ra khả năng cho một giải pháp mới.",
-                    "Tiêu đề hỏi – đáp: Sử dụng định dạng đối thoại để trình bày tuyên bố và giải pháp của nó, tạo sự tương tác và làm cho thông điệp dễ hiểu hơn."
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "subsection",
-              "title": "Ghi chú: Các yếu tố bổ sung (Modifiers) cho Tiêu đề",
-              "content": [
-                {
-                  "type": "list",
-                  "items": [
-                    "Show Speed (Tốc độ): Truyền đạt tốc độ/mức độ dễ dàng. - Ví dụ: Cách làm cho ngôi nhà của bạn an toàn cho trẻ chỉ trong một buổi chiều.",
-                    "Get Niche (Thị trường ngách): Hữu ích cho một nhóm đối tượng cụ thể. - Ví dụ: Hướng dẫn dành cho những người yêu thích sự gọn gàng về cách làm cho ngôi nhà của bạn an toàn cho trẻ.",
-                    "Remove Objections (Loại bỏ trở ngại): Đạt được lợi ích bất chấp thách thức. - Ví dụ: Cách làm cho ngôi nhà của bạn an toàn cho trẻ (mà không tốn quá nhiều chi phí).",
-                    "Go Naked (Tối giản): Cắt giảm thành một tuyên bố đơn giản, mạnh mẽ. - Ví dụ: Cách làm cho ngôi nhà của bạn an toàn cho trẻ."
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "subsection",
-              "title": "Các nguyên tắc về SEO cho tiêu đề",
-              "content": [
-                {
-                  "type": "subsection",
-                  "title": "1. Thẻ Tiêu Đề (Title Tag)",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "text": "Tuân thủ 4 quy tắc:"
-                    },
-                    {
-                      "type": "list",
-                      "items": [
-                        "Độ dài: Giữ trong khoảng 75 ký tự.",
-                        "Nội dung: Bắt đầu bằng cách sử dụng chính tiêu đề bài viết (headline) làm cơ sở.",
-                        "Vị trí từ khóa (Tùy chọn): Có thể \"kéo\" từ khóa chính lên phần đầu của tiêu đề để nhấn mạnh (không bắt buộc).",
-                        "Sự cô đọng: Loại bỏ các từ bổ nghĩa dài và thông tin phụ không cần thiết (như \"PDF download\", \"free tools\")."
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "subsection",
-                  "title": "2. Slug (Đường dẫn)",
-                  "content": [
-                    {
-                      "type": "quote",
-                      "text": "Quy tắc vàng: TUYỆT ĐỐI KHÔNG bao giờ quay lại và thay đổi slug của những bài viết đã được xuất bản."
-                    },
-                    {
-                      "type": "paragraph",
-                      "text": "Ví dụ Case Study: Bài viết \"best email subject lines\""
-                    },
-                    {
-                      "type": "list",
-                      "items": [
-                        "Tiêu đề gốc (Headline): `[PDF Download] 101 Best Email Subject Lines of 2016 (Plus, Free Tools)`",
-                        "Thẻ Tiêu Đề (Title Tag): `101 best email subject lines of 2016` (Ngắn gọn, chứa từ khóa, đi thẳng vào vấn đề).",
-                        "Slug (Lẽ ra nên là): `best-email-subject-lines` (Không thay đổi slug cũ dù nó không lý tưởng)."
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "subsection",
-                  "title": "3. Thẻ Meta (Meta Description) → Bán cú Click Chuột",
-                  "content": [
-                    {
-                      "type": "list",
-                      "items": [
-                        "Nó là gì? Đoạn văn bản ngắn (1-2 câu) xuất hiện bên dưới tiêu đề trên trang kết quả tìm kiếm.",
-                        "Mục đích: Không phải để xếp hạng, mà là một lời chào hàng/quảng cáo ngắn cho bài viết.",
-                        "Cách viết: Viết một câu súc tích, trả lời câu hỏi: \"Tại sao nội dung này lại thú vị và đáng để tôi nhấp vào xem?\". Tập trung vào lợi ích, sự hấp dẫn, hoặc giải pháp độc đáo.",
-                        "Ví dụ (Tự suy luận): Bối cảnh: Bài viết có Title Tag là \"Hướng dẫn tự làm bánh mì sourdough tại nhà cho người mới bắt đầu\". Mô tả Meta tốt: \"Khám phá công thức làm bánh mì sourdough đơn giản nhất, không cần kinh nghiệm. Hướng dẫn chi tiết từng bước để bạn có ngay ổ bánh mì giòn rụm, thơm ngon ngay tại nhà.\""
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "2. LEAD - MỞ BÀI",
-          "content": [
-            {
-              "type": "quote",
-              "text": "Nguyên tắc: Sử dụng thật nhuần nhuyễn một công thức trước khi mở rộng thêm. (Nghiên cứu thêm về \"Great Leads\")."
-            },
-            {
-              "type": "subsection",
-              "title": "Công thức sử dụng: P.A.S",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "text": "Đây là công thức tâm lý kinh điển gồm 3 bước để cấu trúc một phần mở đầu thuyết phục cao. Áp dụng cho blog, email, video, v.v."
-                },
-                {
-                  "type": "list",
-                  "items": [
-                    "Bước 1: P - Problem (Vấn đề): Mở đầu bằng cách xác định và nêu thẳng một vấn đề, một nỗi đau mà độc giả đang phải đối mặt.",
-                    "Bước 2: A - Agitate (Khuấy động): Không chuyển sang giải pháp ngay. Thay vào đó, xoáy sâu vào vấn đề. Mô tả những hệ quả tiêu cực, sự khó chịu, và cảm xúc bực bội mà vấn đề đó gây ra, làm nó trở nên nhức nhối và cấp bách hơn.",
-                    "Bước 3: S - Solution (Giải pháp): Sau khi đã khiến người đọc cảm nhận sâu sắc nỗi đau, giới thiệu bài viết của mình như là giải pháp cho vấn đề đó."
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "subsection",
-              "title": "Kỹ thuật: \"Mở Vòng lặp\" (Open Loop)",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "text": "Đây là một kỹ thuật thuyết phục dựa trên nguyên tắc \"Khoảng trống kiến thức\"."
-                },
-                {
-                  "type": "list",
-                  "items": [
-                    "Cách thức: Giới thiệu một ý tưởng, câu chuyện, hoặc lời hứa nhưng cố tình trì hoãn việc hoàn thành hoặc giải đáp nó cho đến một thời điểm sau này trong bài viết (hoặc nội dung khác).",
-                    "Ví dụ trong Blog: \"Trong danh sách 10 công cụ sau, công cụ số 7 có một tính năng ẩn mà 99% người dùng không biết.\" (Thôi thúc người đọc cuộn xuống để tìm công cụ số 7).",
-                    "Ví dụ trong Email: \"Ngày mai, tôi sẽ gửi bạn câu chuyện về sai lầm lớn nhất trong sự nghiệp của tôi...\" (Vòng lặp được mở và chỉ đóng lại khi họ mở email ngày hôm sau)."
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "3. BODY - NỘI DUNG CHÍNH",
-          "content": [
-            { "type": "placeholder", "text": "Thẻ H2 - Nội dung" },
-            { "type": "placeholder", "text": "Thẻ H2 - Nội dung" },
-            { "type": "placeholder", "text": "Thẻ H2 - Nội dung" },
-            { "type": "placeholder", "text": "Thẻ H2 - Nội dung" }
-          ]
-        },
-        {
-          "title": "4. CTA - KÊU GỌI HÀNH ĐỘNG",
-          "content": [
-            {
-              "type": "list",
+              "type": "audit-list",
               "items": [
-                "CTA - liên kết bài viết",
-                "CTA - Tải tài liệu"
+                {
+                  "point": "1. Tiêu đề",
+                  "criteria": [
+                    "Rõ ràng, thu hút, dùng từ mạnh.",
+                    "Phản ánh đúng lời hứa nội dung, không quá đà."
+                  ]
+                },
+                {
+                  "point": "2. LEAD",
+                  "criteria": [
+                    "Dễ tiếp cận, gây tò mò, nêu rõ lợi ích khi đọc.",
+                    "Tránh dài dòng hoặc cấu trúc rườm rà."
+                  ]
+                },
+                {
+                  "point": "3. Tiêu thụ (Khả năng đọc)",
+                  "criteria": [
+                    "Dễ đọc, bố cục hợp lý, chuyển ý mượt.",
+                    "Hạn chế “cản trở tốc độ” như đoạn dài, định dạng sai."
+                  ]
+                },
+                {
+                  "point": "4. Mục tiêu (CTA)",
+                  "criteria": [
+                    "Có lời kêu gọi hành động rõ, phù hợp và hấp dẫn.",
+                    "Đặt ở vị trí nổi bật trong bài."
+                  ]
+                },
+                {
+                  "point": "5. Media (Hình ảnh, video, âm thanh)",
+                  "criteria": [
+                    "Chất lượng cao, liên quan nội dung.",
+                    "Không thừa, không thiếu, dùng đúng ngữ cảnh."
+                  ]
+                },
+                {
+"point": "6. Kết thúc",
+                  "criteria": [
+                    "Tóm tắt tốt, gợi mở hoặc dẫn người đọc sang hành động kế tiếp."
+                  ]
+                },
+                {
+                  "point": "7. Tối ưu tìm kiếm (SEO)",
+                  "criteria": [
+                    "URL, tiêu đề, mô tả, tag được tối ưu từ khóa.",
+                    "Có liên kết nội bộ và cơ hội liên kết ngoài."
+                  ]
+                },
+                {
+                  "point": "8. Phân loại",
+                  "criteria": [
+                    "Đặt đúng danh mục và gắn tag phù hợp."
+                  ]
+                },
+                {
+                  "point": "9. Đầy đủ nội dung",
+                  "criteria": [
+                    "Truyền tải trọn vẹn lời hứa trong tiêu đề.",
+                    "Có ví dụ, hình ảnh, dữ liệu hỗ trợ."
+                  ]
+                },
+                {
+                  "point": "10. Tính nhất quán",
+                  "criteria": [
+                    "Giọng điệu, thông điệp và phong cách đồng nhất với thương hiệu."
+                  ]
+                }
               ]
             }
           ]
